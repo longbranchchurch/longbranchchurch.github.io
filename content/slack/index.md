@@ -49,7 +49,7 @@ Don't see a channel you want? Ask in `#mumblechatter` to see if others are inter
   * `#2ndf-`: For social, fellowship-related topics.
   * `#3rdf-`: For service projects, faith-based, and similar topics.
 * Use keywords that people are likely to search for. For example, `#business-finance-career` covers a lot of bases.
-
+<!--->
 ## Paxmate
 
 Paxmate is a tool to help summarize events, including who was there. This information helps us plan events and manage sites. You can also view the data yourself.
@@ -58,6 +58,7 @@ For future enhancements to the tool, see the [`f3_bot` issues](https://github.co
 
 
 {{< button relref="/articles/paxmate-user-guide" >}}Paxmate User Guide{{< /button >}} | {{< button relref="/paxmate-dashboard" >}}Paxmate Dashboard{{< /button >}}
+<--->
 
 ## Moderation
 
