@@ -39,7 +39,7 @@ Check out 2nd F (fellowship) and 3rd F (service) opportunities on the F3 Carpex 
 
 {{< button relref="/schedule#2ndf" >}}Check schedule{{< /button >}}
 
-{{< button href="https://calendar.google.com/calendar/u/3?cid=ZjNwZWFrY2l0eUBnbWFpbC5jb20" >}}📅 Add to Calendar{{< /button >}}
+{{< button href="https://calendar.google.com/calendar/embed?src=re7lfn4ecop4cp13vqdlikiatg%40group.calendar.google.com&ctz=America%2FNew_York" >}}📅 Add to Calendar{{< /button >}}
 
 {{< column >}}
 
