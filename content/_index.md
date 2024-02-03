@@ -20,7 +20,7 @@ The workouts are for men of all fitness levels and goals, and include running; c
 
 </br>
 
-{{< figure src="/img/workout-hill.jpeg" title="Example workout running up a hill" >}}
+{{< figure src="/img/events/f3-gte44-kingbuilder.jpg" title="F3 Workout on the USS North Carolina" >}}
 
 {{< button relref="/schedule" >}}Find workouts{{< /button >}}
 </br>
