@@ -2,17 +2,19 @@
 ---
 
 <picture>
-  <source srcset="/img/brand/f3-peak-city-white-on-transparent.png" media="(prefers-color-scheme:dark)">
-  <img height="200px" src="/img/brand/f3-peak-city-black-on-transparent.png">
+  <source srcset="/img/brand/carpex_black_on_white.png" media="(prefers-color-scheme:dark)">
+  <img height="200px" src="/img/brand/carpex_white_on_black.png">
 </picture>
 
 {{< columns >}}
 
 ## Always Free.</br>Always Outside.</br>Open to All Men.
 
-Join us for 20+ free workouts right here in the "Peak of Good Living" in Apex, NC and the surrounding areas of Friendship, New Hill, and Jordan Lake.
+F3 Carpex is a free outdoor men’s only workout group.
+We meet at parks across Cary and Apex North Carolina Monday through Saturday. Rain or shine.
+But it’s more than just a workout… Learn more below!
 
-The workouts are for men of all fitness levels and goals, and include running; cardio with total-body and body-weight exercises; limited run and strength-building with dumbells, kettleballs, and other toys; walking; rucking; recovery stretching and yoga; and even paddleboarding in warm months!
+The workouts are for men of all fitness levels and goals, and include running; cardio with total-body and body-weight exercises; limited run and strength-building with dumbells, kettleballs, and other toys; walking; rucking; recovery stretching and yoga!
 
 {{< column >}}
 
@@ -33,7 +35,7 @@ The workouts are for men of all fitness levels and goals, and include running; c
 
 ## Dive deeper
 
-Check out 2nd F (fellowship) and 3rd F (service) opportunities on the F3 Peak City schedule.
+Check out 2nd F (fellowship) and 3rd F (service) opportunities on the F3 Carpex schedule.
 
 {{< button relref="/schedule#2ndf" >}}Check schedule{{< /button >}}
 
