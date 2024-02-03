@@ -70,9 +70,8 @@ _\*Launch time may vary depending on pace. Intention is to be back at the Flag i
 
 ### <a name="3rdf"></a>3rd F – Small Groups and Community Service
 
-| DAY             | LOCATION                                                              | TIME        | WHAT         | DESCRIPTION                                                                              | SLACK                                                                    |
-| --------------- | --------------------------------------------------------------------- | ----------- | ------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Monday          | Varies [Check Slack](https://f3carpex.slack.com/archives/C02DNTLABBK) | 1900 – 2000 | It Takes Two | Forum where PAX can come together and respectfully discuss current event-related topics. | [#3rdf-itt](https://f3carpex.slack.com/archives/C02DNTLABBK)             |
-| Thursday        | [Panera – Beaver Creek](https://goo.gl/maps/cYYpQzRSjtPEFtAx8)        | 0635 – 0710 | Infusion     | Read through books of the Bible and discuss                                              | [#3rdf-the-Infusion](https://f3carpex.slack.com/archives/C02UVAL9XA7)    |
-| Sun             | [Lowes Food Apex](https://goo.gl/maps/XmZXzmJF2THXJTmj9)              | Any         | WWCM         | Pickup food at Lowes & Deliver to WWCM Warehouse few miles away.                         | [#3rdf-WWCM-Support](https://f3carpex.slack.com/archives/C020LFW2GDV)    |
-| Every other Sun | Downtown Cary                                                         | 1400        | TCP Sawgrass | Landscape multiple homes in support of The Carying Place.                                | [#3rdf-carying-place-tcp](https://f3carpex.slack.com/archives/CB22XF46R) |
+| DAY             | LOCATION                                                              | TIME        | WHAT         | DESCRIPTION                                                                              |
+| --------------- | --------------------------------------------------------------------- | ----------- | ------------ | ---------------------------------------------------------------------------------------- |
+| Wednesday          | [Panera – Park West Village](https://maps.app.goo.gl/665U2tfPr7hmPPCa8) | 0645 – 0715 | The Refinery | Read through books of the Bible and discuss |
+| Thursday        | [Downtown Cary](https://goo.gl/maps/QNtN7acPkL92)        | 0500 – 0545 | q-Source Ruck     | Work through the q-source manual, an F3 leadership guide, as well as other leadership related discussions                                              |
+| Varies (check Slack for details) | Downtown Cary                                                         | Varies        | TCP Sawgrass | Landscape multiple homes in support of The Carying Place.                                |
