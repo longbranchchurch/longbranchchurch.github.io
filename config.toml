@@ -1,0 +1,183 @@
+baseurl = "https://f3peakcity.com"
+DefaultContentLanguage = "en"
+title = "F3 Peak City"
+#theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+googleAnalytics = "G-Z265E06J10"
+
+# Required for inlining iframes, divs, and other markup
+# in the markdown (i.e. .md) files
+[markup.goldmark.renderer]
+unsafe = true
+
+[module]
+  proxy = "direct"  
+  [module.hugoVersion]
+    min = "0.104.2"
+  [[module.imports]]
+    path = "github.com/f3peakcity/beautifulhugo"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Fitness Fellowship Faith"
+  mainSections = ["post","posts"]
+  logo = "img/brand/f3-black-on-white-500x500.png" # Expecting square dimensions
+  darkLogo = "img/brand/f3-white-on-black-500x500.png"
+  favicon = "img/cropped-cropped-F3-Nation-Logo-White-with-Black-background-32x32.jpg"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[[Params.bigimg]]
+  src = "img/events/2023-peak-city-launch-water-tower-scaled_16x9.png"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[taxonomies]
+  # keep default taxonomies
+  category = 'categories'
+  tag = 'tags'
+  # new taxonomies for backblasts
+  ao = 'AOs'
+  pax = 'pax'
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+#   name = "Some Person"
+#   website = "yourwebsite.com"
+#   email = "youremail@domain.com"
+  facebook = "f3peakcity"
+  github = "f3peakcity"
+#   gitlab = "username"
+#   bitbucket = "username"
+  twitter = "f3peakcity"
+#   reddit = "username"
+#   linkedin = "username"
+#   xing = "username"
+#   stackoverflow = "users/XXXXXXX/username"
+#   snapchat = "username"
+  instagram = "f3peakcity"
+#   youtube = "user/username" # or channel/channelname
+#   soundcloud = "username"
+#   spotify = "username"
+#   bandcamp = "username"
+#   itchio = "username"
+#   vk = "username"
+#   paypal = "username"
+#   telegram = "username"
+#   500px = "username"
+#   codepen = "username"
+#   mastodon = "url"
+#   kaggle = "username"
+#   weibo = "username"
+  slack = "f3peakcity"
+#   discord = "invite code (https://discord.gg/XXXXXXX)"
+#   strava = "userid"
+
+[[menu.main]]
+    identifier = "schedule"
+    name = "Schedule"
+    weight = 1
+
+[[menu.main]]
+    parent = "schedule"
+    name = "Q Shop"
+    url = "q/"
+    weight = 2
+
+[[menu.main]]
+    parent = "schedule"
+    name = "1st F (Fitness)"
+    url = "schedule/"
+    weight = 3
+
+[[menu.main]]
+    parent = "schedule"
+    name = "2nd F (Fellowship)"
+    url = "schedule/#2ndf"
+    weight = 4
+
+[[menu.main]]
+    parent = "schedule"
+    name = "3rd F (Faith)"
+    url = "schedule/#3rdf"
+    weight = 5
+
+[[menu.main]]
+    identifier = "pax"
+    name = "PAX"
+    weight = 40
+
+[[menu.main]]
+    parent = "pax"
+    name = "New to F3"
+    url = "new-to-f3/"
+    weight = 41
+
+[[menu.main]]
+    parent = "pax"
+    name = "Leadership"
+    url = "leadership/"
+    weight = 42
+
+[[menu.main]]
+    parent = "pax"
+    name = "PaxMate Dashboard"
+    url = "https://lookerstudio.google.com/embed/reporting/877edeac-2d3b-48a5-b0f6-748b3e953533/page/WICTD"
+    weight = 43
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Stay in touch"
+    weight = 50
+
+[[menu.main]]
+    parent = "contact"
+    name = "Slack"
+    url = "slack/"
+    weight = 51
+
+[[menu.main]]
+    parent = "contact"
+    name = "Backblasts"
+    url = "backblasts/"
+    weight = 52
+
+[[menu.main]]
+    parent = "contact"
+    name = "Newsletter"
+    url = "https://mailchi.mp/8f0de69e0142/f3-greater-carpex-march-newsletter"
+    weight = 53
+
+[[menu.main]]
+    parent = "contact"
+    name = "Articles"
+    url = "articles/"
+    weight = 54
+
+[[menu.main]]
+    parent = "contact"
+    name = "Contact Us"
+    url = "contact/"
+    weight = 55
