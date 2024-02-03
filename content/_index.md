@@ -59,7 +59,7 @@ There's an expression in F3 that you are "freed to lead." Whether it's plugging 
 In person at an AO or virtually on Slack are the best places to connect with the Pax as you plan out a new leadership opportunity.
 {{< column >}}
 
-{{< figure src="/img/adopt-a-hwy.jpeg" title="F3 Adopt-a-Highway at Jenks and 55" >}}
+{{< figure src="static/img/events/adopt-a-hwy.jpg" title="F3 Adopt-a-Highway at Jenks and 55" >}}
 
 {{< button relref="/q" >}}Sign up to Q{{< /button >}}
 </br>
