@@ -7,7 +7,7 @@ socialShare: false
 ### <a name="1stf"></a>1st F Workout Schedule
 
 Looking for a closer workout? Check out a surrounding Region:<br/><br/>
-{{< button href="https://f3carpex.com/schedule/" >}}Carpex{{< /button >}} |
+{{< button href="https://f3peakcity.com/schedule/" >}}Peak City{{< /button >}} |
 {{< button href="https://f3southcary.com/schedule/" >}}South Cary{{< /button >}} |
 {{< button href="https://f3southwake.com/schedule/" >}}South Wake{{< /button >}} |
 {{< button href="https://f3raleigh.com/fitness/" >}}Raleigh{{< /button >}} |
