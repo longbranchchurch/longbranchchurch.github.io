@@ -14,7 +14,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 {{< button href="https://f3churham.com/workouts/" >}}Churham{{< /button >}}
 <br/><br/>
 
-<iframe src="https://map.f3nation.com/?lat=35.732988&amp;lon=-78.857426&amp;zoom=13"
+<iframe src="https://map.f3nation.com/?lat=35.786034&amp;lon=-78.841110&amp;zoom=13"
     style="border:0px #ffffff none;"
     name="f3Maps"
     allow="geolocation"
@@ -28,7 +28,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 
 | DAY       | LOCATION                                                                              | TIME            | WORKOUT                    | STYLE                                                                                                                            |
 | --------- | ------------------------------------------------------------------------------------- | --------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Monday    | [Cornerstone Fellowship Church](https://goo.gl/maps/AJKTycpLQHo)                      | 0530 - 0615     | Hell's Bells               | Kettlebell                                                                                                                       |
+| Monday    | [Robert Godbold Park](https://goo.gl/maps/9zE5WWx9p8SmE7AN6)                      | 0530 - 0615     | Dollywood               | Boot Camp                                                                                                                       |
 | Monday    | [Hunter Street Park](https://goo.gl/maps/bWPqxfs4iEfpjwFf9)                           | 0530 - 0615     | Off the Rails              | Boot Camp                                                                                                                        |
 | Monday    | [Beaver Creak Commons](https://goo.gl/maps/n9WPcgbaZyqPNW5m7)                         | 0530 - 0615     | Beaver Chase               | High Temp Boot Camp                                                                                                              |
 | DAY       | LOCATION                                                                              | TIME            | WORKOUT                    | STYLE                                                                                                                            |

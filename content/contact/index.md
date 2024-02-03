@@ -6,7 +6,7 @@ socialShare: false
 
 If you're on [Slack](/slack), you can directly message one of the [Leadership](/leadership) team.
 
-For website comments, see [GitHub](https://github.com/f3peakcity/f3peakcity.github.io).
+For website comments, see [GitHub](https://github.com/f3peakcity/f3carpex.github.io).
 
 If you're new to F3, visiting from out of town, or just have a general question or comment, please fill out the following form.
 
