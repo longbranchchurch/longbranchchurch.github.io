@@ -1,39 +1,42 @@
 ---
-title: Paxmate User Guide
-date: 2023-01-16
-author: Clockwork
+title: Paxminer User Guide
+date: 2024-02-03
+author: Dewey Decimal
 tags: ["paxmate","site-q", "newsletter", "guide"]
 bigimg: [{ src: "/img/articles/paxmate-banner.png" }]
 ---
 
-Paxmate is inching ever-closer to the Singularity, and your intrepid correspondent wants to make sure that you have the training you need to stay one step ahead of Skynet. Please review the following user guides for the two tools that make up Paxmate: the Slack bot and dashboard.
+Please review the following user guides for the two tools that make up Paxminer:
 
-| Paxmate tool | Where it is | Purpose |
+| Paxiner tool | Where it is | Purpose |
 | --- | --- | --- |
 | [Slack bot](#slack-bot) | Type `/backblast` in a Slack channel | A tool to input data after an event, including a summary of the event and attendees. |
-| [Dashboard](#dashboard) | The [website](/paxmate-dashboard) | A filterable dashboard to view stats such as how many times you post a week or how many guys on average your favorite AO gets. |
+| Dashbord **Coming Soon** | **Coming Soon** | A filterable dashboard to view stats such as how many times you post a week or how many guys on average your favorite AO gets. |
 
 ## Slack bot
 
-Before you begin using the Paxmate Slack bot, you need a [Slack account](/slack).
+Before you begin using the Paxminer Slack bot, you need a [Slack account](/slack).
 
 1. Go to the channel where you want to record an event. Common channels include:
    * `#1stf` for all workouts, both at AOs or on-your-own.
    * `#2ndf` for social activities.
    * `#3rdf` for service activities.
 2. Type `/backblast` in the message, and then click the **Send** button.
-3. Fill out the Paxmate form. The form has several fields that are prepopulated to help you.
-   * Select the date and Q of the event.
-   * Select the AO by channel. `#1stf` events have channels for each AO in the format `#ao-day-name`, like `#ao-tue-dtp`. You do **NOT** need to duplicate a post in a different region like **Carpex** or **Green Level** in the Peak City slack, if you were already tagged in a backblast in that region's slack.
-   * Select the Pax who posted. You can search them by name. They must be in Slack to appear in this list.
-   * Provide a summary of the event.
-   * Add any FNGs. For multiple FNGs, separate the names with a comma (`,`).
+3. Fill out the Paxminer form. The form has several fields that are prepopulated to help you.
+   * Enter a title for your workout.
+   * Select the AO by channel. `#1stf` events have channels for each AO in the format `#ao-day-name`, like `#ao-tue-claymore`. 
+   * Enter the workout date.
+   * Select the Q, Co-Q (if applicable), and Pax who posted. You can search them by name. They must be in Slack to appear in this list.
    * Add any additional Pax, such as ones who are not signed up in Slack. For multiple Pax, separate the names with a comma (`,`).
-   * For Visiting Pax, you can enter a number. If you already entered them all in the additional Pax, skip this field.
+   * Add any FNGs. For multiple FNGs, separate the names with a comma (`,`).
+   * The total count should be calculated automatically.
+   * Provide a summary of the event.
+   * Choose where to post your Backblast (it should be posted in the main `#1stf`, `#2ndf`, or `#3rdf` channel)
 4. Click **Submit**. You only have to do this once, even if it seems like it didn't work. Sometimes it takes a minute to process.
 
-{{< figure src="/img/articles/paxmate-slack-bot-form.png" title="Example paxmate form" height="100" >}}
+{{< figure src="/img/articles/carpex_backblast1.png" title="Example paxmate form" height="100" >}}
 
+<!--->
 > Got ideas? To suggest changes or see what future enhancements we have in mind, see the [`f3_bot` issues](https://github.com/f3peakcity/f3_bot/issues).
 
 ## Dashboard
@@ -81,3 +84,5 @@ Thanks to **Torpedo** for the initial set up of the `f3_bot` app, and to **Wahoo
 
 By Clockwork
 > "Good words are worth much, and cost little." - George Herbert
+
+<--->
