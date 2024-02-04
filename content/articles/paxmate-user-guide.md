@@ -8,10 +8,10 @@ bigimg: [{ src: "/img/articles/paxmate-banner.png" }]
 
 Please review the following user guides for the two tools that make up Paxminer:
 
-| Paxiner tool | Where it is | Purpose |
+| Paxminer tool | Where it is | Purpose |
 | --- | --- | --- |
 | [Slack bot](#slack-bot) | Type `/backblast` in a Slack channel | A tool to input data after an event, including a summary of the event and attendees. |
-| Dashbord **Coming Soon** | **Coming Soon** | A filterable dashboard to view stats such as how many times you post a week or how many guys on average your favorite AO gets. |
+| Dashboard | **Coming Soon** | A filterable dashboard to view stats such as how many times you post a week or how many guys on average your favorite AO gets. |
 
 ## Slack bot
 
@@ -22,7 +22,7 @@ Before you begin using the Paxminer Slack bot, you need a [Slack account](/slack
    * `#2ndf` for social activities.
    * `#3rdf` for service activities.
 2. Type `/backblast` in the message, and then click the **Send** button.
-3. Fill out the Paxminer form. The form has several fields that are prepopulated to help you.
+3. Fill out the Backblast form. The form has several fields that are prepopulated to help you.
    * Enter a title for your workout.
    * Select the AO by channel. `#1stf` events have channels for each AO in the format `#ao-day-name`, like `#ao-tue-claymore`. 
    * Enter the workout date.
