@@ -10,8 +10,7 @@ The site is published using GitHub pages, available at the following URLs:
 
 Pax with admin rights:
 
-- [Wahoo](https://github.com/mikeyrcamp)
-- [Clockwork](https://github.com/artberger)
+- Dewey Decimal
 
 ## Contributing
 
