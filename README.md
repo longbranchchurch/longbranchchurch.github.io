@@ -1,16 +1,16 @@
-# f3carpex.com website ![Deploy Huge site to Pages](https://github.com/f3peakcity/f3peakcity.github.io/actions/workflows/hugo.yml/badge.svg?branch=main)
+Long Branch Church website ![Deploy Huge site to Pages](https://github.com/f3peakcity/f3peakcity.github.io/actions/workflows/hugo.yml/badge.svg?branch=main)
 
-The F3 Carpex website site is built using Hugo and a fork of the [Beautiful Hugo theme](https://github.com/f3peakcity/beautifulhugo).
+The Long Branch Church website site is built using Hugo and a fork of the [Beautiful Hugo theme](https://github.com/f3peakcity/beautifulhugo).
 
 The site is published using GitHub pages, available at the following URLs:
 
-- Production: [https://f3peakcity.com/](https://f3peakcity.com/)
+- Production: [https://www.longbranchchurch.org/](https://www.longbranchchurch.org/)
 
 ## Contributors
 
-Pax with admin rights:
+People with admin rights:
 
-- Dewey Decimal
+- Brian Pugsley
 
 ## Contributing
 
@@ -20,8 +20,7 @@ Depending on what you want to do, you have a few options to contribute.
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Update content on a page                    | Search this repo for what you want to update and open a pull request.                                                                                     |
 | Add a new AO to the Q sheet                 | Contact Wahoo on Slack or open an issue.                                                                                                                  |
-| Write a backblast                           | Right now, you can create a new file in the `/backblasts` folder and open a pull request. In the future, we hope to automate this from the Slack Paxmate. |
-| Change the way the website looks or behaves | Open a pull request. You also probably want to build locally to test your changes (see the following **Quick start**).                                    |
+
 
 ## Quick start
 
@@ -48,17 +47,3 @@ The [forked Beautiful Hugo theme](https://github.com/f3peakcity/beautifulhugo) i
 2. [Create a new release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) for the theme changes. Naming convention is like `v0.0.1`.
 3. Navigate to your clone of this repo and run `hugo mod get github.com/f3peakcity/beautifulhugo`.
 4. Commit and push your changes.
-
-## Differences from standard Hugo and this site
-
-### Taxonomies
-
-- Added `ao` and `pax` taxonomies so that we can organize the backblasts by these (instead of using terms like categories and tags)
-
-## Updating/Adding AOs
-
-To add or update an AO location make sure to update the following places.
-
-1. Submit a [F3 Nation Map Change Request](https://f3nation.com/map-changes/).
-2. Update the link on the [schedule](./content/schedule/index.md).
-3. Update the links on the [Q Sheet](https://docs.google.com/spreadsheets/d/13aEBXExY-04Lq8cCtnqIeOhaxSDh0CGuUPY9vrYW8Io/edit?usp=sharing).
