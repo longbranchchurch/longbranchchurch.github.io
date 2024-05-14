@@ -2,8 +2,8 @@
 ---
 
 <picture>
-  <source srcset="/img/brand/carpex_black_on_white.png" media="(prefers-color-scheme:dark)">
-  <img height="200px" src="/img/brand/carpex_white_on_black.png">
+  <source srcset="/img/brand/LBCLogo.png" media="(prefers-color-scheme:dark)">
+  <img height="200px" src="/img/brand/LBCLogo.png">
 </picture>
 
 {{< columns >}}

@@ -1,6 +1,6 @@
-baseurl = "https://f3carpex.com"
+baseurl = "https://www.longbranchchurch.org"
 DefaultContentLanguage = "en"
-title = "F3 Carpex"
+title = "Long Branch Church"
 #theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -25,11 +25,11 @@ unsafe = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Fitness Fellowship Faith"
+  subtitle = "Believe Belong Become"
   mainSections = ["post","posts"]
-  logo = "img/brand/f3-black-on-white-500x500.png" # Expecting square dimensions
-  darkLogo = "img/brand/f3-white-on-black-500x500.png"
-  favicon = "img/brand/carpex_white_on_black.png"
+  logo = "img/brand/LBCLogo.png" # Expecting square dimensions
+  darkLogo = "img/brand/LBCLogo.png"
+  favicon = "img/brand/LBCLogo.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
@@ -44,7 +44,7 @@ unsafe = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
-  src = "img/events/f3carpex_group.jpg"
+  src = "img/events/LBCChurchService.jpg"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
@@ -68,16 +68,16 @@ unsafe = true
 #   website = "yourwebsite.com"
 #   email = "youremail@domain.com"
   facebook = "f3caryapex"
-  github = "f3carpex"
+  github = "longbranchpfwbchurch"
 #   gitlab = "username"
 #   bitbucket = "username"
-  twitter = "f3carpex"
+  twitter = "username"
 #   reddit = "username"
 #   linkedin = "username"
 #   xing = "username"
 #   stackoverflow = "users/XXXXXXX/username"
 #   snapchat = "username"
-  instagram = "f3carpex"
+  instagram = "username"
 #   youtube = "user/username" # or channel/channelname
 #   soundcloud = "username"
 #   spotify = "username"
@@ -91,7 +91,7 @@ unsafe = true
 #   mastodon = "url"
 #   kaggle = "username"
 #   weibo = "username"
-  slack = "f3carpex"
+  slack = "username"
 #   discord = "invite code (https://discord.gg/XXXXXXX)"
 #   strava = "userid"
 
