@@ -104,7 +104,7 @@ unsafe = true
 [[menu.main]]
     parent = "our church"
     name = "Leadership"
-    url = "Leadership/"
+    url = "leadership/"
     weight = 2
 
 [[menu.main]]
