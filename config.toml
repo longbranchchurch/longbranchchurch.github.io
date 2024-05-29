@@ -115,7 +115,7 @@ unsafe = true
 [[menu.main]]
     parent = "our church"
     name = "Church By-Laws"
-    url = "What We Believe/"
+    url = "https://docs.google.com/document/d/1ivbJOoRoJ-LDtLje8Ot3B85w4u1Cr8hZHNecWTI3N-0/edit?usp=sharing"
     weight = 4
 
 
@@ -127,7 +127,7 @@ unsafe = true
 [[menu.main]]
     parent = "teaching"
     name = "Sermons"
-    url = "new-to-f3/"
+    url = "https://www.youtube.com/@longbranchchurch5128/streams"
     weight = 41
 
 [[menu.main]]
@@ -139,7 +139,7 @@ unsafe = true
 [[menu.main]]
     parent = "teaching"
     name = "Newsletters"
-    url = "new-to-f3/"
+    url = "https://drive.google.com/drive/folders/1Pia3xH-EWkBCQDKg9zFKa_yoxLzwP7Fp?usp=drive_link"
     weight = 43
 
 [[menu.main]]
