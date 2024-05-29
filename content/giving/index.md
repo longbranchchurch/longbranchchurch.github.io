@@ -12,7 +12,7 @@ When it comes to sowing and reaping, there must be a level of trust. When the fa
 </br>
 </br>
 
-# Psalm 24:1
+### Psalm 24:1
 </br>
 The earth is the Lord’s, and all it contains,
 </br>
