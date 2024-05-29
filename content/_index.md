@@ -32,13 +32,7 @@ faith and one Savior.
 </br>
 {{< column >}}
 
-## Dive deeper
-
-Check out 2nd F (fellowship) and 3rd F (service) opportunities on the F3 Carpex schedule.
-
-{{< button relref="/schedule#2ndf" >}}Check schedule{{< /button >}}
-
-{{< button href="https://calendar.google.com/calendar/embed?src=re7lfn4ecop4cp13vqdlikiatg%40group.calendar.google.com&ctz=America%2FNew_York" >}}📅 Add to Calendar{{< /button >}}
+{{< figure src="/img/events/LBCChurchService.jpg">}}
 
 {{< column >}}
 
