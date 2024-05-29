@@ -24,16 +24,18 @@ faith and one Savior.
 
 </br>
 
-{{< figure src="/img/events/f3-gte44-kingbuilder.jpg" title="F3 Workout on the USS North Carolina" >}}
+## Service Times
+Sunday School: 9:00 AM
+Worship Service: 10:00 AM
+    Nursery (infant to 2 years old), Little Kids Church (Pre-K), and Big Kids Church (Kindergarten to 5th Grade) provided during worship service.
 
-{{< button relref="/schedule" >}}Find workouts{{< /button >}}
+Wednesday Night Supper: 5:45 PM
+    Closed during the summer
+Wednesday Night Bible Classes: 6:45 PM
+
 </br>
-{{< button relref="/new-to-f3" >}}New to F3?{{< /button >}}
-
+</br>
 {{< endcolumns >}}
-
-</br>
-</br>
 
 {{< columns >}}
 
@@ -70,8 +72,6 @@ In person at an AO or virtually on Slack are the best places to connect with the
 {{< button relref="/slack" >}}Find a Slack channel{{< /button >}}
 {{< endcolumns >}}
 
-</br>
-</br>
 
 ## What is F3?
 
