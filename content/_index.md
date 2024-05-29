@@ -7,7 +7,7 @@
 </picture>
 
 {{< columns >}}
-
+{{< figure src="/img/LBCFront.jpg">}}
 ## Welcome Home
 
 Welcome to Long Branch Church.
@@ -23,7 +23,6 @@ faith and one Savior.
 {{< column >}}
 
 </br>
-{{< figure src="/img/LBCFront.jpg">}}
 </br>
 ## Service Times
 **Sunday School:** 9:00 AM
