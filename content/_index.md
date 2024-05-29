@@ -50,24 +50,3 @@ Check out 2nd F (fellowship) and 3rd F (service) opportunities on the F3 Carpex 
 </br>
 
 {{< columns >}}
-
-## Lead right
-
-There's an expression in F3 that you are "freed to lead." Whether it's plugging into an existing effort or starting a new training program or service opportunity, you are welcome not only to join, but to lead.
-
-In person at an AO or virtually on Slack are the best places to connect with the Pax as you plan out a new leadership opportunity.
-{{< column >}}
-
-{{< figure src="/img/events/23_adopt_a_hwy.jpg" title="F3 Adopt-a-Highway at Jenks and 55" >}}
-
-{{< button relref="/q" >}}Sign up to Q{{< /button >}}
-</br>
-{{< button relref="/slack" >}}Find a Slack channel{{< /button >}}
-{{< endcolumns >}}
-
-
-## What is F3?
-
-F3 is a network of thousands of free, peer-led workouts for men across the nation. Our mission is to plant, grow and serve small workout groups for men for the invigoration of male community leadership.
-
-{{< vimeo 143444379 >}}
