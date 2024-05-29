@@ -31,7 +31,8 @@ faith and one Savior.
 </br>
 </br>
 {{< column >}}
-
+</br>
+</br>
 {{< figure src="/img/events/LBCChurchService.jpg">}}
 
 {{< column >}}
