@@ -22,8 +22,6 @@ faith and one Savior.
 
 {{< column >}}
 
-</br>
-</br>
 ## Service Times
 **Sunday School:** 9:00 AM
 **Worship Service:** 10:00 AM
