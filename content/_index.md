@@ -23,7 +23,7 @@ faith and one Savior.
 {{< column >}}
 
 </br>
-{{< figure src="/img/LBCFront.jpg" title="Long Branch Church Front Entrance" >}}
+{{< figure src="/img/LBCFront.jpg">}}
 </br>
 ## Service Times
 **Sunday School:** 9:00 AM
