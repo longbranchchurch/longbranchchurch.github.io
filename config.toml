@@ -131,48 +131,6 @@ unsafe = true
     weight = 41
 
 [[menu.main]]
-    parent = "pax"
-    name = "Leadership"
-    url = "leadership/"
-    weight = 42
-
-[[menu.main]]
-    parent = "pax"
-    name = "Carpex Dashboard"
-    url = "https://lookerstudio.google.com/embed/reporting/55e8d4db-8fc5-475d-bd65-4607782ee7e8/page/Cb2pD"
-    weight = 43
-
-[[menu.main]]
-    identifier = "contact"
     name = "Stay in touch"
-    weight = 50
-
-[[menu.main]]
-    parent = "contact"
-    name = "Slack"
-    url = "slack/"
-    weight = 51
-
-[[menu.main]]
-    parent = "contact"
-    name = "Backblasts"
-    url = "backblasts/"
-    weight = 52
-
-[[menu.main]]
-    parent = "contact"
-    name = "Newsletter"
-    url = "https://us15.campaign-archive.com/home/?u=b367368c384b39e45b7bb8208&id=6246913961"
-    weight = 53
-
-[[menu.main]]
-    parent = "contact"
-    name = "Articles"
-    url = "articles/"
-    weight = 54
-
-[[menu.main]]
-    parent = "contact"
-    name = "Contact Us"
     url = "contact/"
-    weight = 55
+    weight = 50
