@@ -8,13 +8,17 @@
 
 {{< columns >}}
 
-## Always Free.</br>Always Outside.</br>Open to All Men.
+## Welcome Home
 
-F3 Carpex is a free outdoor men’s only workout group.
-We meet at parks across Cary and Apex North Carolina Monday through Saturday. Rain or shine.
-But it’s more than just a workout… Learn more below!
-
-The workouts are for men of all fitness levels and goals, and include running; cardio with total-body and body-weight exercises; limited run and strength-building with dumbells, kettleballs, and other toys; walking; rucking; recovery stretching and yoga!
+Welcome to Long Branch Church.
+We are a Bible-believing church that exists
+to bring people into a closer
+relationship with God. Our mission,
+vision and aim is to proclaim the
+true and only Hope that is found in
+Christ Jesus. We believe and teach
+that there is only one God, one
+faith and one Savior. 
 
 {{< column >}}
 
