@@ -26,13 +26,12 @@ faith and one Savior.
 {{< figure src="/img/LBCFront.jpg" title="Long Branch Church Front Entrance" >}}
 </br>
 ## Service Times
-Sunday School: 9:00 AM
-Worship Service: 10:00 AM
-    Nursery (infant to 2 years old), Little Kids Church (Pre-K), and Big Kids Church (Kindergarten to 5th Grade) provided during worship service.
-
-Wednesday Night Supper: 5:45 PM
-    Closed during the summer
-Wednesday Night Bible Classes: 6:45 PM
+**Sunday School:** 9:00 AM
+**Worship Service:** 10:00 AM
+    *Nursery (infant to 2 years old), Little Kids Church (Pre-K), and Big Kids Church (Kindergarten to 5th Grade) provided during worship service.*
+**Wednesday Night Supper:** 5:45 PM
+    *Closed during the summer*
+**Wednesday Night Bible Classes:** 6:45 PM
 
 </br>
 </br>
