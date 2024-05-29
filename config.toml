@@ -133,7 +133,7 @@ unsafe = true
 [[menu.main]]
     parent = "teaching"
     name = "Kids and Students"
-    url = "Kids and Students/"
+    url = "lbckids/"
     weight = 42
 
 [[menu.main]]
