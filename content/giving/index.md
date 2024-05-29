@@ -1,5 +1,5 @@
 ---
-title: CONTACT
+title: GIVING
 comments: false
 socialShare: false
 ---
@@ -28,4 +28,9 @@ The world, and those who dwell in it.
     PO Box 61</br>
     Dunn, NC 28334</br>
 
-<div align="center"> <script src="https://forms.ministryforms.net/embed.aspx?formId=0f56c6c4-5b24-4b26-839f-7be2d87f300b&amp;custom-templates="></script><iframe id="mb-formbuilder-container" data-uniqueid="33852008956113244" src="https://forms.ministryforms.net/viewForm.aspx?formid=0f56c6c4-5b24-4b26-839f-7be2d87f300b&amp;direct-link=&amp;embed=true&amp;frameid=33852008956113244" style="width: 100%; height: 1080.95px; border: 0px;" allow="payment"></iframe><script src="https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js"></script></div>
+<div align="center"> <script src="https://forms.ministryforms.net/embed.aspx?formId=0f56c6c4-5b24-4b26-839f-7be2d87f300b&amp;custom-templates=">
+
+</script>
+<iframe id="mb-formbuilder-container" data-uniqueid="33852008956113244" src="https://forms.ministryforms.net/viewForm.aspx?formid=0f56c6c4-5b24-4b26-839f-7be2d87f300b&amp;direct-link=&amp;embed=true&amp;frameid=33852008956113244" style="width: 100%; height: 1080.95px; border: 0px;" allow="payment"></iframe>
+<script src="https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js"></script>
+</div>
