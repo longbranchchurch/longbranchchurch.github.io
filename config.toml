@@ -96,24 +96,26 @@ unsafe = true
 #   strava = "userid"
 
 [[menu.main]]
-    identifier = "schedule"
-    name = "Schedule"
+    identifier = "our church"
+    name = "About Us"
+    url = "About Us/"
     weight = 1
 
+<!--
 [[menu.main]]
-    parent = "schedule"
-    name = "Q Shop"
-    url = "q/"
+    parent = "our church"
+    name = "Leadership"
+    url = "Leadership/"
     weight = 2
 
 [[menu.main]]
-    parent = "schedule"
-    name = "1st F (Fitness)"
-    url = "schedule/"
+    parent = "our church"
+    name = "About Us"
+    url = "About Us/"
     weight = 3
 
 [[menu.main]]
-    parent = "schedule"
+    parent = "our church"
     name = "2nd F (Fellowship)"
     url = "schedule/#2ndf"
     weight = 4
@@ -123,7 +125,7 @@ unsafe = true
     name = "3rd F (Faith)"
     url = "schedule/#3rdf"
     weight = 5
-
+-->
 [[menu.main]]
     identifier = "pax"
     name = "PAX"
