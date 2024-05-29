@@ -101,7 +101,6 @@ unsafe = true
     url = "About Us/"
     weight = 1
 
-<!--
 [[menu.main]]
     parent = "our church"
     name = "Leadership"
@@ -120,12 +119,6 @@ unsafe = true
     url = "schedule/#2ndf"
     weight = 4
 
-[[menu.main]]
-    parent = "schedule"
-    name = "3rd F (Faith)"
-    url = "schedule/#3rdf"
-    weight = 5
--->
 [[menu.main]]
     identifier = "pax"
     name = "PAX"
