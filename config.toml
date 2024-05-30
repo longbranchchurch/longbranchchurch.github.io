@@ -102,12 +102,6 @@ unsafe = true
 
 [[menu.main]]
     parent = "our church"
-    name = "Leadership"
-    url = "leadership/"
-    weight = 2
-
-[[menu.main]]
-    parent = "our church"
     name = "What We Believe"
     url = "What We Believe/"
     weight = 3
