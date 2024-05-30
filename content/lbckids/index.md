@@ -17,84 +17,11 @@ Our goal in Little Kids and Kids Church is to hel kids grow by connecting their 
 {{< button href="https://drive.google.com/drive/folders/1JProw-_pjN3B5BE80Fll9eJ3a3BuvT62?usp=drive_link" >}}View Kids Church Materials{{< /button >}}
 
 {{< column >}}
-## Wednesday Night
-During our 10AM worship service, we offer a few options for our kids. Along with a nursery for kids 2 and under, we offer a Little Kids Church service for Pre-K kids.</br>
-</br>
-We also offer Kids Church for kids, Kindergarten to 5th Grade. Kids Church meets in the Fellowship Hall.</br>
-</br>
-Our goal in Little Kids and Kids Church is to hel kids grow by connecting their hearts with Jesus' heart and showing them how to live like Him, using Bible stories to teach and apply these lessons. We believe that knowing the application of the stories is just as, if not more, important than knowing the story itself. 
+## Wednesday Night Classes
+Our Wednesday Night classes meet every Wednesday, 6:45PM-7:30PM. These classes meet in grade/age-specific groups. These groups are: Pre-K, K-2nd Grade, 3rd-5th Grade, and Middle/High School youth.<br>
 <br>
-> **Luke 11:28** But even more blessed are all who hear the word of God and put it into practice.<br>
+Our goal for Wednesday night classes is to working together in service to others to develop a deeper understanding of His character and Word. We believe that the more children are exposed to the needs of others and realize how much they can do to relieve those needs, the more they will want to serve.<br>
 <br>
-{{< button href="https://drive.google.com/drive/folders/1JProw-_pjN3B5BE80Fll9eJ3a3BuvT62?usp=drive_link" >}}View Kids Church Materials{{< /button >}}
-
-> **Need an invite?** Anyone already in the Slack can text you an invite link, or you can give them your email and they can send you a link via email. If needed, [contact us](/contact) for help.
-
-## Channels
-
-Conversations on Slack are organized into channels that start with `#`. The following sections share details about the most common.
-
-### Default channels
-
-Everyone automatically is part of the following channels:
-
-| Channel            | Description                                                                                                                                                                                                                                                                                          |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #1stf              | Anything fitness-related, including "preblasts" or promotional info for who's leading each workout the night before.                                                                                                                                                                                 |
-| #2ndf              | Anything fellowship-related, such as happy hours, spontaneous meetups to watch a game, or recommendations on things to do.                                                                                                                                                                           |
-| #3rdf              | Anything faith-related, such as praises, prayers, and other ways we can help each other out.                                                                                                                                                                                                         |
-| #cot-announcements | Announcements that you would like the pax to hear about in Circle of Trust at the end of each workout. These are usually upcoming events like a race or service project. Only admins can post to this channel. If you have an announcement, let someone on the [Leadership](/leadership/) team know. |
-| #mumblechatter     | A catch-all channel for general questions, comments, observations of life, etc. Usually the most active channel on the site.                                                                                                                                                                         |
-
-### Other channels of interest
-
-Channels are often used to share interests or coordinate activities around a certain type of event. There are a large number of channels for a large variety of activities.
-
-| Channel                  | Description                                                                                                                          |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| #buy-sell-trade          | Things you're selling or looking for, or deals that you found that other pax might be interested in, kind of like an F3 Marketplace. |
-| #diybro             | Anything related to DIY projects, house projects, tools of the trade, recommendations for local service providers, and so on.        |
-| #business-networking | Anything related to money, personal finances, career advice, jobs, professional development, and so on.                              |
-
-### Channel naming conventions
-
-Don't see a channel you want? Ask in `#mumblechatter` to see if others are interested, too. You can even [create your own channel](https://slack.com/help/articles/201402297-Create-a-channel), such as for your Shield Lock or a one-time event! Here are some guidelines to help with naming the channel.
-
-* Search for an existing channel that might be similar, and see if it'd make sense to combine channels.
-* If applicable to your topic, use prefixes:
-  * `#1stf-`: For fitness-related topics.
-  * `#2ndf-`: For social, fellowship-related topics.
-  * `#3rdf-`: For service projects, faith-based, and similar topics.
-* Use keywords that people are likely to search for. For example, `#business-finance-career` covers a lot of bases.
-<!--->
-## Paxmate
-
-Paxmate is a tool to help summarize events, including who was there. This information helps us plan events and manage sites. You can also view the data yourself.
-
-For future enhancements to the tool, see the [`f3_bot` issues](https://github.com/f3peakcity/f3_bot/issues).
-
-
-{{< button relref="/articles/paxmate-user-guide" >}}Paxmate User Guide{{< /button >}} | {{< button relref="/paxmate-dashboard" >}}Paxmate Dashboard{{< /button >}}
-<--->
-
-## Moderation
-
-As with everything in F3, you are "Freed to Lead," and can post mostly whatever you like, or even help the [Commz team](/leadership/) moderate.
-
-A few general guidelines:
-
-- 💪 We love a "hard commit" (`HC`) culture! If you plan to show up to a workout or event, throw an `HC` emoji reaction on that post.
-- 🙈 Try to keep content more PG-13 than R or NSFW.
-- 🔥 If you post about "hot button" topics like politics, please be considerate in your word choices and remember that we include men from all walks of life.
-- 🤑 It's ok to share about your personal business, especially if a Pax asks for recommendations. But please don't spam the channels constantly.
-- 🧹 Occassionally the Commz team or another Pax might suggest that a post would be better in a different channel or rename a channel. This is to help us keep Slack tidy, since things get lost very fast.
-- 🚨 Avoid using `@channel` or `@here` unless you _really_ need everyone to get a notification that very second.
-
-## Profiles
-
-Here are some tips for filling out your profile.
-
-- Most people have a silly profile picture related to their nickname, but you are also welcome to use a selfie.
-- For your **Display Name**, use your F3 name. Some people from other regions might also add their region, like **Jigglypuff (SCary)**.
-- In your title, feel free to add what you do in real life, or in the group, like if you're a Site Q.
-- Make sure to add a phone number to the **ICE**, or in case of emergency, field. You can also put this in your title if you want to add more details like a contact name. (Note: You can fill out the **ICE** field on desktop or browser only, unfortunately not on the mobile app yet due to a known Slack limitation.)
+> **Philippians 2:4** Let each of you look not only to his own interests, but also to the interests of others.<br>
+<br>
+{{< button href="https://drive.google.com/drive/folders/10wzEliIG_0U-fR123UtYgqhtYZ-wZT5F?usp=drive_link" >}}View Kids Church Materials{{< /button >}}
