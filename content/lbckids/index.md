@@ -1,14 +1,22 @@
 ---
-title: SLACK
+title: LBC.KIDS
 comments: false
 socialShare: false
 ---
 
 {{< columns >}}
-Slack is a group chat app that serves as our group's virtual space for all sorts of mumblechatter. You can access Slack from your phone, desktop, or browser.
+## Little Kids and Kids Church##
+During our 10AM worship service, we offer a few options for our kids. Along with a nursery for kids 2 and under, we offer a Little Kids Church service for Pre-K kids.</br>
+</br>
+We also offer Kids Church for kids, Kindergarten to 5th Grade. Kids Church meets in the Fellowship Hall.</br>
+</br>
+Our goal in Little Kids and Kids Church is to hel kids grow by connecting their hearts with Jesus' heart and showing them how to live like Him, using Bible stories to teach and apply these lessons. We believe that knowing the application of the stories is just as, if not more, important than knowing the story itself. 
+</br>
+> **Luke 11:28** But even more blessed are all who hear the word of God and put it into practice.
+
 {{< column >}}
 <br>
-{{< button href="https://join.slack.com/t/f3carpex/shared_invite/zt-rzap47de-cH1EWYtr8cfBOgCOrnJKnw" >}}Launch Slack{{< /button >}}
+{{< button href="https://drive.google.com/drive/folders/1JProw-_pjN3B5BE80Fll9eJ3a3BuvT62?usp=drive_link" >}}View Kids Church Materials{{< /button >}}
 {{< endcolumns >}}
 
 > **Need an invite?** Anyone already in the Slack can text you an invite link, or you can give them your email and they can send you a link via email. If needed, [contact us](/contact) for help.
