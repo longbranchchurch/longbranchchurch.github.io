@@ -24,4 +24,4 @@ Our goal for Wednesday night classes is to working together in service to others
 <br>
 > **Philippians 2:4** Let each of you look not only to his own interests, but also to the interests of others.<br>
 <br>
-{{< button href="https://drive.google.com/drive/folders/10wzEliIG_0U-fR123UtYgqhtYZ-wZT5F?usp=drive_link" >}}View Kids Church Materials{{< /button >}}
+{{< button href="https://drive.google.com/drive/folders/10wzEliIG_0U-fR123UtYgqhtYZ-wZT5F?usp=drive_link" >}}View Wednesday Night Materials{{< /button >}}
