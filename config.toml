@@ -102,12 +102,6 @@ unsafe = true
 
 [[menu.main]]
     parent = "our church"
-    name = "What We Believe"
-    url = "What We Believe/"
-    weight = 3
-
-[[menu.main]]
-    parent = "our church"
     name = "Church By-Laws"
     url = "https://docs.google.com/document/d/1ivbJOoRoJ-LDtLje8Ot3B85w4u1Cr8hZHNecWTI3N-0/edit?usp=sharing"
     weight = 4
