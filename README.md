@@ -11,17 +11,7 @@ The site is published using GitHub pages, available at the following URLs:
 People with admin rights:
 
 - Brian Pugsley
-
-## Contributing
-
-Depending on what you want to do, you have a few options to contribute.
-
-| What you want to do                         | How to contribute                                                                                                                                         |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Update content on a page                    | Search this repo for what you want to update and open a pull request.                                                                                     |
-| Add a new AO to the Q sheet                 | Contact Wahoo on Slack or open an issue.                                                                                                                  |
-
-
+- 
 ## Quick start
 
 1. Clone the repo.
