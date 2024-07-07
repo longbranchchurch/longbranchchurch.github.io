@@ -10,7 +10,7 @@ During our 10AM worship service, we offer a few options for our kids. Along with
 </br>
 We also offer Kids Church for kids, Kindergarten to 5th Grade. Kids Church meets in the Fellowship Hall.</br>
 </br>
-Our goal in Little Kids and Kids Church is to hel kids grow by connecting their hearts with Jesus' heart and showing them how to live like Him, using Bible stories to teach and apply these lessons. We believe that knowing the application of the stories is just as, if not more, important than knowing the story itself. 
+Our goal in Little Kids and Kids Church is to help kids grow by connecting their hearts with Jesus' heart and showing them how to live like Him, using Bible stories to teach and apply these lessons. We believe that knowing the application of the stories is just as, if not more, important than knowing the story itself. 
 <br>
 > **Luke 11:28** But even more blessed are all who hear the word of God and put it into practice.<br>
 <br>
