@@ -24,7 +24,7 @@ faith and one Savior.
 **Sunday School:** 9:00 AM </br>
 **Worship Service:** 10:00 AM </br>
     *Nursery (infant to 2 years old), Little Kids Church (Pre-K), and Big Kids Church (Kindergarten to 5th Grade) provided during worship service.* </br>
-**Wednesday Night Supper:** 5:45 PM </br>
+**Wednesday Night Supper:** 6:00 PM </br>
     *Closed during the summer* </br>
 **Wednesday Night Bible Classes:** 6:45 PM
 
