@@ -25,3 +25,11 @@ Our goal for Wednesday night classes is to working together in service to others
 > **Philippians 2:4** Let each of you look not only to his own interests, but also to the interests of others.<br>
 <br>
 {{< button href="https://drive.google.com/drive/folders/10wzEliIG_0U-fR123UtYgqhtYZ-wZT5F?usp=drive_link" >}}View Wednesday Night Materials{{< /button >}}
+
+{{< column >}}
+## Kids Christmas Program
+Our Christmas program for 2024 will be on December 1st. <br>
+<br>
+Our goal for the christmas program is to spread the good news of Jesus. The Gospel story started in the Garden of Eden and continued when Jesus was born. We celebrate this birth at Christmas and hope to use the Christmas program to help tell people about the one and only savior of the world.<br>
+<br>
+{{< button href="https://drive.google.com/drive/folders/1pOBC7UvBO5hTnMDXVvyYOz8re5NWD1_P?usp=sharing" >}}View Christmas Program Materials{{< /button >}}
