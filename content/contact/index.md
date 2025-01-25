@@ -8,6 +8,7 @@ If you're a visitor to Long Branch Church, have a prayer request, or just have a
 <br>
 **Phone:** 910-892-3284
 **Email:** contact@longbranchchurch.org
+**Address:** 1013 Long Branch Road, Dunn, NC
 <br>
 
 <div align="center">
