@@ -25,7 +25,7 @@ unsafe = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Believe Belong Become"
+  subtitle = "1013 Long Branch Road, Dunn, NC"
   mainSections = ["post","posts"]
   logo = "img/brand/LBCLogo.png" # Expecting square dimensions
   darkLogo = "img/brand/LBCLogo.png"
