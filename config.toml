@@ -54,13 +54,7 @@ unsafe = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-[taxonomies]
-  # keep default taxonomies
-  category = 'categories'
-  tag = 'tags'
-  # new taxonomies for backblasts
-  ao = 'AOs'
-  pax = 'pax'
+
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
