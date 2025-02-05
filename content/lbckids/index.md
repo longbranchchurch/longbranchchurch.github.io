@@ -18,9 +18,9 @@ Our goal in Little Kids and Kids Church is to help kids grow by connecting their
 
 {{< column >}}
 ## Wednesday Night Classes
-Our Wednesday Night classes meet every Wednesday, 6:45PM-7:30PM. These classes meet in grade/age-specific groups. These groups are: Pre-K, K-2nd Grade, 3rd-5th Grade, and Middle/High School youth.<br>
+Our Wednesday Night classes meet every Wednesday, 6:30PM-7:30PM. These classes meet in grade/age-specific groups. These groups are: Pre-K, K-2nd Grade, 3rd-5th Grade, and Middle/High School youth.<br>
 <br>
-Our goal for Wednesday night classes is to working together in service to others to develop a deeper understanding of His character and Word. We believe that the more children are exposed to the needs of others and realize how much they can do to relieve those needs, the more they will want to serve.<br>
+Our goal for Wednesday night classes is to work together in service to others to develop a deeper understanding of His character and Word. We believe that the more children are exposed to the needs of others and realize how much they can do to relieve those needs, the more they will want to serve.<br>
 <br>
 > **Philippians 2:4** Let each of you look not only to his own interests, but also to the interests of others.<br>
 <br>
