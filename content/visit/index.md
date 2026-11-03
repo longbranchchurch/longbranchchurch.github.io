@@ -17,7 +17,7 @@ Welcome to Long Branch Church. We are a Bible-believing church that exists to br
 **Sunday School:** 9:00 AM<br>
 **Worship Service:** 10:00 AM
 
-Our worship service is a time of singing together and teaching from God's Word.
+Our worship service is a time we can reflect on everything God does for us and learn from His Word.
 
 {{< column >}}
 
