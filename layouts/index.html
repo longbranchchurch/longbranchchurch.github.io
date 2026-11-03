@@ -1,0 +1,110 @@
+{{ define "main" }}
+{{- $p := site.Params }}
+{{- $h := .Params }}
+
+<section class="hero">
+  <img class="hero-img"
+       src="{{ "img/photos/church-front-2000.jpg" | relURL }}"
+       srcset="{{ "img/photos/church-front-1000.jpg" | relURL }} 1000w, {{ "img/photos/church-front-2000.jpg" | relURL }} 2000w"
+       sizes="100vw" alt="The Long Branch Church building at sunset" fetchpriority="high">
+  <div class="hero-shade" aria-hidden="true"></div>
+  <div class="wrap hero-inner">
+    <p class="eyebrow eyebrow-light">{{ $h.heroEyebrow }}</p>
+    <h1 class="hero-title">{{ $h.heroTitle }}</h1>
+    <p class="hero-sub">{{ $h.heroSubtitle }}</p>
+    <div class="hero-actions">
+      <a class="btn btn-light" href="{{ "/visit/" | relURL }}">Plan your visit</a>
+      <a class="btn btn-ghost" href="{{ $p.youtube }}" target="_blank" rel="noopener">Watch a sermon</a>
+    </div>
+  </div>
+</section>
+
+<section class="times" aria-labelledby="times-h">
+  <div class="wrap">
+    <div class="times-card">
+      <h2 id="times-h" class="sr-only">Service times</h2>
+      {{- range $h.schedule }}
+      <div class="times-group">
+        <p class="times-day">{{ .day }}</p>
+        <ul>
+          {{- range .items }}
+          <li><span class="times-time">{{ .time }}</span><span class="times-name">{{ .name }}{{ with .note }}<em>{{ . }}</em>{{ end }}</span></li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
+      <div class="times-group times-where">
+        <p class="times-day">Where</p>
+        <p class="times-address">{{ $p.address }}<br>{{ $p.cityStateZip }}</p>
+        <a class="link-arrow" href="{{ $p.mapsLink }}" target="_blank" rel="noopener">Get directions</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="welcome">
+  <div class="wrap welcome-grid">
+    <div class="welcome-text">
+      <p class="eyebrow">Who we are</p>
+      <h2>{{ $h.welcomeTitle }}</h2>
+      <div class="prose">{{ .Content }}</div>
+      <a class="btn btn-green" href="{{ "/visit/" | relURL }}">What to expect on Sunday</a>
+    </div>
+    <figure class="welcome-photo">
+      <img src="{{ "img/photos/worship-1000.jpg" | relURL }}"
+           srcset="{{ "img/photos/worship-1000.jpg" | relURL }} 1000w, {{ "img/photos/worship-2000.jpg" | relURL }} 2000w"
+           sizes="(min-width: 900px) 50vw, 100vw"
+           alt="The congregation gathered for Sunday worship" loading="lazy">
+    </figure>
+  </div>
+</section>
+
+<section class="expect">
+  <div class="wrap">
+    <p class="eyebrow">There's a place for you</p>
+    <h2 class="section-title">Something for the whole family</h2>
+    <div class="cards">
+      {{- range $h.cards }}
+      <a class="card" href="{{ .link | relURL }}"{{ if hasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}>
+        <span class="card-icon" aria-hidden="true">{{ partial "icon.html" .icon }}</span>
+        <h3>{{ .title }}</h3>
+        <p>{{ .text }}</p>
+        <span class="link-arrow">{{ .linkText }}</span>
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+<section class="verse-band">
+  <div class="wrap verse-inner">
+    <img src="{{ "img/brand/lbc-icon-white.png" | relURL }}" alt="" width="48" height="63">
+    <blockquote>
+      <p>{{ $h.verse }}</p>
+      <cite>{{ $h.verseRef }}</cite>
+    </blockquote>
+  </div>
+</section>
+
+<section class="find-us">
+  <div class="wrap find-grid">
+    <div>
+      <p class="eyebrow">Find us</p>
+      <h2>We'd love to meet you</h2>
+      <p>Have a question before you visit, or a prayer request we can join you in? Reach out anytime.</p>
+      <dl class="contact-list">
+        <dt>Address</dt><dd>{{ $p.address }}, {{ $p.cityStateZip }}</dd>
+        <dt>Phone</dt><dd><a href="tel:{{ replace $p.phone "-" "" }}">{{ $p.phone }}</a></dd>
+        <dt>Email</dt><dd><a href="mailto:{{ $p.email }}">{{ $p.email }}</a></dd>
+      </dl>
+      <div class="hero-actions">
+        <a class="btn btn-green" href="{{ "/contact/" | relURL }}">Send us a message</a>
+        <a class="btn btn-outline" href="{{ $p.mapsLink }}" target="_blank" rel="noopener">Directions</a>
+      </div>
+    </div>
+    <div class="map">
+      <iframe src="{{ $p.mapsEmbed }}" title="Map to Long Branch Church" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </div>
+</section>
+{{ end }}

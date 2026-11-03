@@ -1,0 +1,2 @@
+{{- $href := .Get "href" -}}
+<a class="btn btn-green" href="{{ $href }}"{{ if hasPrefix $href "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Inner }}</a>
