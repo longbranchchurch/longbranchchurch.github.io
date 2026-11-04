@@ -33,12 +33,12 @@ unsafe = true
 # ---------------------------------------------------------------
 [[menu.main]]
   name = "Plan a Visit"
-  url = "/visit/"
+  url = "visit/"
   weight = 10
 
 [[menu.main]]
   name = "Kids & Students"
-  url = "/lbckids/"
+  url = "lbckids/"
   weight = 20
 
 [[menu.main]]
@@ -48,10 +48,10 @@ unsafe = true
 
 [[menu.main]]
   name = "Giving"
-  url = "/giving/"
+  url = "giving/"
   weight = 40
 
 [[menu.main]]
   name = "Contact"
-  url = "/contact/"
+  url = "contact/"
   weight = 50

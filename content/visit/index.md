@@ -29,7 +29,7 @@ During the 10:00 worship service we offer:
 - **Little Kids Church** for Pre-K
 - **Big Kids Church** for Kindergarten to 5th grade
 
-[Learn more about LBC.Kids →](/lbckids/)
+[Learn more about LBC.Kids →]({{< relref "/lbckids" >}})
 
 {{< endcolumns >}}
 
@@ -48,4 +48,4 @@ We're located at **1013 Long Branch Road, Dunn, NC**.
 
 ## Questions?
 
-We'd love to hear from you before your visit. Call us at [910-892-3284](tel:9108923284), email [connect@longbranchchurch.org](mailto:connect@longbranchchurch.org), or [send us a message](/contact/).
+We'd love to hear from you before your visit. Call us at [910-892-3284](tel:9108923284), email [connect@longbranchchurch.org](mailto:connect@longbranchchurch.org), or [send us a message]({{< relref "/contact" >}}).

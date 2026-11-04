@@ -8,6 +8,9 @@
   {{- $desc := .Params.description | default site.Params.description }}
   <meta name="description" content="{{ $desc }}">
   <meta name="theme-color" content="#3f2021">
+  {{- if site.Params.preview }}
+  <meta name="robots" content="noindex, nofollow">
+  {{- end }}
   <meta property="og:title" content="{{ $title }}">
   <meta property="og:description" content="{{ $desc }}">
   <meta property="og:type" content="website">
@@ -28,6 +31,9 @@
 </head>
 <body class="{{ if .IsHome }}is-home{{ else }}is-page{{ end }}">
   <a class="skip-link" href="#main">Skip to content</a>
+  {{- if site.Params.preview }}
+  <div class="preview-banner">Preview of our new website. This isn't live yet. The current site is at <a href="https://www.longbranchchurch.org/">longbranchchurch.org</a>.</div>
+  {{- end }}
   {{ partial "header.html" . }}
   <main id="main">
     {{ block "main" . }}{{ end }}

@@ -13,7 +13,7 @@
     <h1 class="hero-title">{{ $h.heroTitle }}</h1>
     <p class="hero-sub">{{ $h.heroSubtitle }}</p>
     <div class="hero-actions">
-      <a class="btn btn-light" href="{{ "/visit/" | relURL }}">Plan your visit</a>
+      <a class="btn btn-light" href="{{ "visit/" | relURL }}">Plan your visit</a>
       <a class="btn btn-ghost" href="{{ $p.youtube }}" target="_blank" rel="noopener">Watch a sermon</a>
     </div>
   </div>
@@ -48,7 +48,7 @@
       <p class="eyebrow">Who we are</p>
       <h2>{{ $h.welcomeTitle }}</h2>
       <div class="prose">{{ .Content }}</div>
-      <a class="btn btn-green" href="{{ "/visit/" | relURL }}">What to expect on Sunday</a>
+      <a class="btn btn-green" href="{{ "visit/" | relURL }}">What to expect on Sunday</a>
     </div>
     <figure class="welcome-photo">
       <img src="{{ "img/photos/worship-1000.jpg" | relURL }}"
@@ -98,7 +98,7 @@
         <dt>Email</dt><dd><a href="mailto:{{ $p.email }}">{{ $p.email }}</a></dd>
       </dl>
       <div class="hero-actions">
-        <a class="btn btn-green" href="{{ "/contact/" | relURL }}">Send us a message</a>
+        <a class="btn btn-green" href="{{ "contact/" | relURL }}">Send us a message</a>
         <a class="btn btn-outline" href="{{ $p.mapsLink }}" target="_blank" rel="noopener">Directions</a>
       </div>
     </div>
