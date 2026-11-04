@@ -1,135 +1,57 @@
 baseurl = "https://www.longbranchchurch.org"
-DefaultContentLanguage = "en"
+languageCode = "en-us"
 title = "Long Branch Church"
-#theme = "beautifulhugo"
-pygmentsStyle = "trac"
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-#pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-googleAnalytics = "G-VHYLSSFH6T"
+disableKinds = ["taxonomy", "term", "RSS"]
 
-# Required for inlining iframes, divs, and other markup
-# in the markdown (i.e. .md) files
+# Lets the .md files include raw HTML (iframes, divs, etc.)
 [markup.goldmark.renderer]
 unsafe = true
 
-[module]
-  proxy = "direct"  
-  [module.hugoVersion]
-    min = "0.104.2"
-  [[module.imports]]
-    path = "github.com/f3carpex/beautifulhugo"
+# ---------------------------------------------------------------
+# Church details used across the site (header, footer, home page)
+# Edit these in one place and they update everywhere.
+# ---------------------------------------------------------------
+[params]
+  description = "Long Branch Church is a Bible-believing church family in Dunn, North Carolina. Join us Sundays at 10:00 AM."
+  googleAnalytics = "G-VHYLSSFH6T"
 
-[Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "1013 Long Branch Road, Dunn, NC"
-  mainSections = ["post","posts"]
-  logo = "img/brand/LBCLogo.png" # Expecting square dimensions
-  darkLogo = "img/brand/LBCLogo.png"
-  favicon = "img/brand/LBCLogo.png"
-  dateFormat = "January 2, 2006"
-  commit = false
-  rss = false
-  comments = true
-  readingTime = true
-  wordCount = true
-  useHLJS = true
-  socialShare = true
-  delayDisqus = true
-  showRelatedPosts = true
-#  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  address = "1013 Long Branch Road"
+  cityStateZip = "Dunn, NC 28334"
+  mailingAddress = "PO Box 61, Dunn, NC 28334"
+  phone = "910-892-3284"
+  email = "connect@longbranchchurch.org"
+  mapsLink = "https://www.google.com/maps/search/?api=1&query=1013+Long+Branch+Road+Dunn+NC"
+  mapsEmbed = "https://maps.google.com/maps?q=1013%20Long%20Branch%20Road%2C%20Dunn%2C%20NC&z=14&output=embed"
 
-[[Params.bigimg]]
-  src = "img/LBCFront.jpg"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+  facebook = "https://www.facebook.com/longbranchpfwbchurch"
+  youtube = "https://www.youtube.com/@longbranchchurch5128/streams"
+  newsletters = "https://drive.google.com/drive/folders/1Pia3xH-EWkBCQDKg9zFKa_yoxLzwP7Fp?usp=drive_link"
+  bylaws = "https://docs.google.com/document/d/1ivbJOoRoJ-LDtLje8Ot3B85w4u1Cr8hZHNecWTI3N-0/edit?usp=sharing"
 
-
-
-[Author]
-  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-#   name = "Some Person"
-#   website = "yourwebsite.com"
-  email = "contact@longbranchchurch.org"
-  facebook = "longbranchpfwbchurch"
-#  github = "longbranchpfwbchurch"
-#   gitlab = "username"
-#   bitbucket = "username"
-#  twitter = "username"
-#   reddit = "username"
-#   linkedin = "username"
-#   xing = "username"
-#   stackoverflow = "users/XXXXXXX/username"
-#   snapchat = "username"
-#  instagram = "username"
-#   youtube = "user/username" # or channel/channelname
-#   soundcloud = "username"
-#   spotify = "username"
-#   bandcamp = "username"
-#   itchio = "username"
-#   vk = "username"
-#   paypal = "username"
-#   telegram = "username"
-#   500px = "username"
-#   codepen = "username"
-#   mastodon = "url"
-#   kaggle = "username"
-#   weibo = "username"
-#  slack = "username"
-#   discord = "invite code (https://discord.gg/XXXXXXX)"
-#   strava = "userid"
+# ---------------------------------------------------------------
+# Top navigation
+# ---------------------------------------------------------------
+[[menu.main]]
+  name = "Plan a Visit"
+  url = "visit/"
+  weight = 10
 
 [[menu.main]]
-    identifier = "our church"
-    name = "Our Church"
-    weight = 2
+  name = "Kids & Students"
+  url = "lbckids/"
+  weight = 20
 
 [[menu.main]]
-    parent = "our church"
-    name = "Church By-Laws"
-    url = "https://docs.google.com/document/d/1ivbJOoRoJ-LDtLje8Ot3B85w4u1Cr8hZHNecWTI3N-0/edit?usp=sharing"
-    weight = 4
-
+  name = "Sermons"
+  url = "https://www.youtube.com/@longbranchchurch5128/streams"
+  weight = 30
 
 [[menu.main]]
-    identifier = "teaching"
-    name = "Teaching"
-    weight = 40
+  name = "Giving"
+  url = "giving/"
+  weight = 40
 
 [[menu.main]]
-    parent = "teaching"
-    name = "Sermons"
-    url = "https://www.youtube.com/@longbranchchurch5128/streams"
-    weight = 41
-
-[[menu.main]]
-    parent = "teaching"
-    name = "Kids and Students"
-    url = "lbckids/"
-    weight = 42
-
-[[menu.main]]
-    parent = "teaching"
-    name = "Newsletters"
-    url = "https://drive.google.com/drive/folders/1Pia3xH-EWkBCQDKg9zFKa_yoxLzwP7Fp?usp=drive_link"
-    weight = 43
-
-[[menu.main]]
-    name = "Stay in touch"
-    url = "contact/"
-    weight = 50
-
-[[menu.main]]
-    name = "Giving"
-    url = "giving/"
-    weight = 60
+  name = "Contact"
+  url = "contact/"
+  weight = 50

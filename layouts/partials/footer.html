@@ -1,0 +1,32 @@
+{{- $p := site.Params }}
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <img src="{{ "img/brand/lbc-horizontal-white.png" | relURL }}" alt="Long Branch Church" width="900" height="369">
+      <p class="footer-tag">Sundays at 10:00 AM &middot; Everyone is welcome.</p>
+    </div>
+    <div>
+      <h2 class="footer-h">Visit</h2>
+      <p>{{ $p.address }}<br>{{ $p.cityStateZip }}</p>
+      <p><a href="{{ $p.mapsLink }}" target="_blank" rel="noopener">Get directions &rarr;</a></p>
+    </div>
+    <div>
+      <h2 class="footer-h">Contact</h2>
+      <p><a href="tel:{{ replace $p.phone "-" "" }}">{{ $p.phone }}</a><br>
+      <a href="mailto:{{ $p.email }}">{{ $p.email }}</a></p>
+      <p>Mail: {{ $p.mailingAddress }}</p>
+    </div>
+    <div>
+      <h2 class="footer-h">Stay connected</h2>
+      <ul class="footer-links">
+        <li><a href="{{ $p.youtube }}" target="_blank" rel="noopener">Sermons on YouTube</a></li>
+        <li><a href="{{ $p.facebook }}" target="_blank" rel="noopener">Facebook</a></li>
+        <li><a href="{{ $p.newsletters }}" target="_blank" rel="noopener">Newsletters</a></li>
+        <li><a href="{{ $p.bylaws }}" target="_blank" rel="noopener">Church By-Laws</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer-base">
+    <p>&copy; {{ now.Year }} Long Branch Church &middot; Dunn, North Carolina</p>
+  </div>
+</footer>
